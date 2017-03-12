@@ -8,6 +8,7 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <!-- Using pivots as tabs for each character -->
         <Pivot Title="Father Ted Soundboard">
             <PivotItem Header="Ted">
                 <Grid x:Name="grid">
@@ -16,6 +17,7 @@
                         <RowDefinition Height="*" />
 
                     </Grid.RowDefinitions>
+                    <!-- The media element gets the source of the sound and using x:Name to bind with event handler -->
                     <MediaElement x:Name="ted"
                           Height="10"
                           Width="100"
