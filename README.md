@@ -11,4 +11,11 @@ For my project, I have decided to make a soundboard for my Windows application. 
 - Integrated Touch
 
 # Architecture
-To develop the mobile app, I used Microsoft's [Visual Studio 2015](https://www.visualstudio.com/downloads/) as an IDE (integrated development environment). The application is a [UWP](https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide) (Universal Windows Platform) which was first introduced in Windows 10. The purpose of this software platform is to help develop universal apps that run on both Windows 10 and Windows 10 Mobile without the need to be re-written for each.
+### IDE
+To develop the mobile app, I used Microsoft's [Visual Studio 2015](https://www.visualstudio.com/downloads/) as an IDE (integrated development environment). The application is a [UWP](https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide) (Universal Windows Platform) which was first introduced in Windows 10. The purpose of this software platform is to help develop universal apps that run on both Windows 10 and Windows 10 Mobile without the need to be re-written for each. 
+
+### C# and XAML 
+
+### Local Storage
+
+
