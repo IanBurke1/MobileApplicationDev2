@@ -29,11 +29,11 @@ Both C# and XAML interact with each other to create a Web application. Both are 
 The Assets folder in the UWP acts as the local storage. It is used to store the sounds and logos used in the soundboard app.
 
 # Design
-The app is very basic. I used pivots to navigate to different characters and sounds. Pivots are the same as tabs. To play the sounds, I used buttons. When the user clicks/taps a button, an event handler occurs where it calls the media element which plays the particular sound. 
+The app is very basic. I used pivots to navigate to different characters and sounds. Pivots are the same as tabs. To play the sounds, I used buttons. When the user clicks/taps a button, an event handler occurs where it calls the media element which plays the particular sound. The media element is used to get the source of the sound file. Once the media element is binded with the button click event handler. A play() method is called to play the sound.
 
 # How to run
 1. Download the above FT_Soundboard folder.
 2. Open Visual Studio 2015 and create a windows universal blank app project
-3. Paste in main.xaml.c and main.xaml.
+3. Paste in mainPage.xaml.c and mainPage.xaml.
 4. Add the assets folder containing the sounds.
 5. Run on local machine.
