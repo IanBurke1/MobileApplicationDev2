@@ -4,6 +4,9 @@ This repository is for my UWP for the module Mobile Application 2 in the course 
 # UWP (Universal Windows Platform) Soundboard
 For my project, I have decided to make a soundboard for my Windows application. The soundboard will consist of sounds from various characters based from a famous Irish television comedy called Father Ted. The user can navigate between characters and choose a sound to play. The user simply can click/tap a button to play a sound. 
 
+### Windows Store
+https://www.microsoft.com/en-us/store/p/father-ted-soundboard/9mzq2mmw07gw
+
 # System Requirements
 - Windows 10 Operating System
 - Windows 10 Mobile
@@ -26,5 +29,8 @@ Both C# and XAML interact with each other to create a Web application. Both are 
 The Assets folder in the UWP acts as the local storage. It is used to store the sounds and logos used in the soundboard app.
 
 # How to run
-
-
+1. Download the above FT_Soundboard folder.
+2. Open Visual Studio 2015 and create a windows universal blank app project
+3. Paste in main.xaml.c and main.xaml.
+4. Add the assets folder containing the sounds.
+5. Run on local machine.
