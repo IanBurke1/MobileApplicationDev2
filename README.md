@@ -4,7 +4,7 @@ This repository is for my UWP project for the module Mobile Application 2 in the
 # UWP (Universal Windows Platform) Soundboard
 For my project, I have decided to make a soundboard for my Windows application. The soundboard will consist of sounds from various characters based from a famous Irish television comedy called Father Ted. The user can navigate between characters and choose a sound to play. The user simply can click/tap a button to play a sound. 
 
-### Windows Store
+### Windows Store Link
 https://www.microsoft.com/en-us/store/p/father-ted-soundboard/9mzq2mmw07gw
 
 # System Requirements
