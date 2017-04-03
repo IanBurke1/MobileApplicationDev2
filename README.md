@@ -1,5 +1,5 @@
 # Introduction
-This repository is for my UWP for the module Mobile Application 2 in the course Computing and Software Development studied at Galway Mayo Institute of Technology (GMIT). Lecturer of the module is Damien Costello.
+This repository is for my UWP project for the module Mobile Application 2 in the course Computing and Software Development studied at Galway Mayo Institute of Technology (GMIT). Lecturer of the module is Damien Costello.
 
 # UWP (Universal Windows Platform) Soundboard
 For my project, I have decided to make a soundboard for my Windows application. The soundboard will consist of sounds from various characters based from a famous Irish television comedy called Father Ted. The user can navigate between characters and choose a sound to play. The user simply can click/tap a button to play a sound. 
@@ -29,7 +29,7 @@ Both C# and XAML interact with each other to create a Web application. Both are 
 The Assets folder in the UWP acts as the local storage. It is used to store the sounds and logos used in the soundboard app.
 
 # Design
-The app is very basic. I used pivots to navigate to different characters and sounds. Pivots are the same as tabs. To play the sounds, I used buttons. When the user clicks/taps a button, an event handler occurs where it calls the media element which plays the particular sound. The media element is used to get the source of the sound file. Once the media element is binded with the button click event handler. A play() method is called to play the sound.
+The app is very basic. I used pivots to navigate to different characters and sounds. Pivots are the same as tabs. To play the sounds, I used buttons. When the user clicks/taps a button, an event handler occurs where it calls the media element which plays the particular sound. The media element is used to get the source of the sound file. Once the media element is binded with the button click event handler. A play() method is called to play the sound. More on the Media Element at: https://msdn.microsoft.com/en-us/library/windows/apps/mt187272.aspx
 
 # How to run
 1. Download the above FT_Soundboard folder.
