@@ -1,0 +1,5 @@
+MainPackage=C:\Users\Iano\Desktop\FT_Soundboard\FT_Soundboard\FT_Soundboard\bin\ARM\Release\Upload\FT_Soundboard_1.1.8.0_ARM.appx
+SymbolPackage=C:\Users\Iano\Desktop\FT_Soundboard\FT_Soundboard\FT_Soundboard\AppPackages\FT_Soundboard_1.1.8.0\FT_Soundboard_1.1.8.0_ARM.appxsym
+ResourcePack=C:\Users\Iano\Desktop\FT_Soundboard\FT_Soundboard\FT_Soundboard\_scale-100.appx
+ResourcePack=C:\Users\Iano\Desktop\FT_Soundboard\FT_Soundboard\FT_Soundboard\_scale-150.appx
+ResourcePack=C:\Users\Iano\Desktop\FT_Soundboard\FT_Soundboard\FT_Soundboard\_scale-400.appx

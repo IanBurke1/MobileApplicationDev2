@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-150"
+"ResourceDimensions"		"scale-150"
+
+[Files]
+"C:\Users\Iano\Desktop\FT_Soundboard\FT_Soundboard\FT_Soundboard\obj\ARM\Release\split.scale-150.pri"			"resources.pri"
+"C:\Users\Iano\Desktop\FT_Soundboard\FT_Soundboard\FT_Soundboard\obj\ARM\Release\PackageLayout\Assets\BadgeLogo.scale-150.jpg"			"Assets\BadgeLogo.scale-150.jpg"

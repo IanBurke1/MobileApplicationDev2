@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="16808IanBurke.FatherTedSoundboard" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FT_Soundboard.xr.xml" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/FT_Soundboard.xr.xml">
+				<Candidate type="Path">
+					<Value>FT_Soundboard.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="allfour.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/allfour.wav">
+					<Candidate type="Path">
+						<Value>Assets\allfour.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeLogo.jpg" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/BadgeLogo.jpg"/>
+				<NamedResource name="bra.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/bra.wav">
+					<Candidate type="Path">
+						<Value>Assets\bra.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="carefulnow.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/carefulnow.wav">
+					<Candidate type="Path">
+						<Value>Assets\carefulnow.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="drink.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/drink.wav">
+					<Candidate type="Path">
+						<Value>Assets\drink.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ecumenicalmatter.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/ecumenicalmatter.wav">
+					<Candidate type="Path">
+						<Value>Assets\ecumenicalmatter.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="exhaustion.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/exhaustion.wav">
+					<Candidate type="Path">
+						<Value>Assets\exhaustion.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Girls.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/Girls.wav">
+					<Candidate type="Path">
+						<Value>Assets\Girls.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="havealovelybottom.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/havealovelybottom.wav">
+					<Candidate type="Path">
+						<Value>Assets\havealovelybottom.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="hello.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/hello.wav">
+					<Candidate type="Path">
+						<Value>Assets\hello.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jacobscreek.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/jacobscreek.wav">
+					<Candidate type="Path">
+						<Value>Assets\jacobscreek.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="kurtcobain.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/kurtcobain.wav">
+					<Candidate type="Path">
+						<Value>Assets\kurtcobain.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="lovelygirls.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/lovelygirls.wav">
+					<Candidate type="Path">
+						<Value>Assets\lovelygirls.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="nicepints.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/nicepints.wav">
+					<Candidate type="Path">
+						<Value>Assets\nicepints.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NoelFurlong.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/NoelFurlong.wav">
+					<Candidate type="Path">
+						<Value>Assets\NoelFurlong.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="nuns.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/nuns.wav">
+					<Candidate type="Path">
+						<Value>Assets\nuns.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="racist.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/racist.wav">
+					<Candidate type="Path">
+						<Value>Assets\racist.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="rats.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/rats.wav">
+					<Candidate type="Path">
+						<Value>Assets\rats.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="shutup.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/shutup.wav">
+					<Candidate type="Path">
+						<Value>Assets\shutup.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.jpg" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/SplashScreen.jpg">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="spreadmyselfaround.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/spreadmyselfaround.wav">
+					<Candidate type="Path">
+						<Value>Assets\spreadmyselfaround.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.jpg" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/Square150x150Logo.jpg">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.jpg" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/Square310x310Logo.jpg">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-200.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.jpg" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/Square44x44Logo.jpg">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.jpg" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/Square71x71Logo.jpg">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-200.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.jpg" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/StoreLogo.jpg">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-200.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tea.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/tea.wav">
+					<Candidate type="Path">
+						<Value>Assets\tea.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="theyallhavelovelybottoms.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/theyallhavelovelybottoms.wav">
+					<Candidate type="Path">
+						<Value>Assets\theyallhavelovelybottoms.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="underArrest.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/underArrest.wav">
+					<Candidate type="Path">
+						<Value>Assets\underArrest.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="whoareyou.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/whoareyou.wav">
+					<Candidate type="Path">
+						<Value>Assets\whoareyou.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.jpg" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/Wide310x150Logo.jpg">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="woman.wav" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/woman.wav">
+					<Candidate type="Path">
+						<Value>Assets\woman.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="logos">
+					<NamedResource name="71x71.jpg" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/logos/71x71.jpg">
+						<Candidate type="Path">
+							<Value>Assets\logos\71x71.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="fathertedsplash.png" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/logos/fathertedsplash.png">
+						<Candidate type="Path">
+							<Value>Assets\logos\fathertedsplash.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ted.png" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Assets/logos/ted.png">
+						<Candidate type="Path">
+							<Value>Assets\logos\ted.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://16808IanBurke.FatherTedSoundboard/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

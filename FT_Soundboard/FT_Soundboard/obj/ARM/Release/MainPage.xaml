@@ -1,0 +1,263 @@
+﻿<Page
+    x:Class="FT_Soundboard.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FT_Soundboard"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Pivot Title="Father Ted Soundboard">
+            <PivotItem Header="Ted">
+                <Grid x:ConnectionId='31' x:Name="grid">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="500" />
+                        <RowDefinition Height="*" />
+
+                    </Grid.RowDefinitions>
+                    <MediaElement x:ConnectionId='32' x:Name="ted"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/hello.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='33' x:Name="playSoundButton"
+                    Height="36"
+                    Width="104"
+                    Content="Hello"
+                                                  Margin="10,10,0,454" />
+
+                    <MediaElement x:ConnectionId='34' x:Name="ted2"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/carefulnow.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='35' x:Name="downwiththis"
+                    Height="36"
+                    Width="208"
+                    Content="Down with this sort of thing"
+                                       Margin="10,51,0,413" />
+
+                    <MediaElement x:ConnectionId='36' x:Name="ted3"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/havealovelybottom.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='37' x:Name="lovelybottom"
+                    Height="36"
+                    Width="139"
+                    Content="Lovely Bottom"
+                                               Margin="10,92,0,372" />
+
+                    <MediaElement x:ConnectionId='38' x:Name="ted4"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/theyallhavelovelybottoms.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='39' x:Name="theyallhave"
+                    Height="36"
+                    Width="208"
+                    Content="They all have lovely bottoms"
+                                              Margin="10,133,0,331" />
+                </Grid>
+            </PivotItem>
+            <PivotItem Header="Dougal" Margin="10,0,14,0" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="500" />
+                        <RowDefinition Height="*" />
+
+                    </Grid.RowDefinitions>
+
+                    <MediaElement x:ConnectionId='23' x:Name="dougal1"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/bra.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='24' x:Name="playSoundButton2"
+                    Height="36"
+                    Width="145"
+                    Content="how's your bra?"
+                                                   Margin="10,10,0,454" />
+
+                    <MediaElement x:ConnectionId='25' x:Name="dougal4"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/tea.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='26' x:Name="illmakethetea"
+                    Height="36"
+                    Width="145"
+                    Content="Ill make the tea.."
+                                                Margin="10,51,0,413" />
+
+                    <MediaElement x:ConnectionId='27' x:Name="dougal2"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/kurtcobain.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='28' x:Name="kurtcobain"
+                    Height="36"
+                    Width="145"
+                    Content="Kurt Cobain"
+                                             Margin="10,133,0,331" />
+
+                    <MediaElement x:ConnectionId='29' x:Name="dougal3"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/whoareyou.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='30' x:Name="whoAreYou"
+                    Height="36"
+                    Width="145"
+                    Content="Who are you?"
+                                            Margin="10,92,0,372" />
+                </Grid>
+            </PivotItem>
+
+            <PivotItem Header="Jack" Margin="10,0,14,0">
+                <Grid Margin="10,-212,-10,212">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="500" />
+                        <RowDefinition Height="*" />
+
+                    </Grid.RowDefinitions>
+
+                    <MediaElement x:ConnectionId='13' x:Name="jack"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/Girls.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='14' x:Name="playSoundButton3"
+                    Height="36"
+                    Width="104"
+                    Content="Girls"
+                                                  />
+
+                    <MediaElement x:ConnectionId='15' x:Name="jack2"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/nuns.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='16' x:Name="playSoundButton5"
+                    Height="36"
+                    Width="104"
+                    Content="nuns"
+                                                   Margin="0,273,0,191"/>
+
+                    <MediaElement x:ConnectionId='17' x:Name="jack3"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/ecumenicalmatter.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='18' x:Name="ecumenicalmatter"
+                    Height="36"
+                    Width="159"
+                    Content="Ecumenical Matter"
+                                                   Margin="0,314,0,150"/>
+
+                    <MediaElement x:ConnectionId='19' x:Name="jack4"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/jacobscreek.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='20' x:Name="jacobscreek"
+                    Height="36"
+                    Width="218"
+                    Content="Jacobs Creek Chardonnay"
+                                              Margin="0,355,0,109"/>
+
+                    <MediaElement x:ConnectionId='21' x:Name="jack5"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/rats.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='22' x:Name="rats"
+                    Height="36"
+                    Width="159"
+                    Content="Rats"
+                                       Margin="0,396,0,68"/>
+                </Grid>
+            </PivotItem>
+            <PivotItem Header="Others" Margin="10,0,14,0" RenderTransformOrigin="0.5,0.5">
+                <PivotItem.RenderTransform>
+                    <CompositeTransform Rotation="-0.057"/>
+                </PivotItem.RenderTransform>
+                <Grid Margin="10,-212,-10,212">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="500" />
+                        <RowDefinition Height="*" />
+
+                    </Grid.RowDefinitions>
+
+                    <MediaElement x:ConnectionId='1' x:Name="noelfurlong"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/NoelFurlong.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='2' x:Name="noelfurlong1"
+                    Height="36"
+                    Width="118"
+                    Content="List of enemies"
+                                               Margin="0,272,0,192"/>
+
+                    <MediaElement x:ConnectionId='3' x:Name="justshutup"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/shutup.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='4' x:Name="justshutup1"
+                    Height="36"
+                    Width="104"
+                    Content="Just Shut Up"
+                                              Margin="0,231,0,233"/>
+                    <MediaElement x:ConnectionId='5' x:Name="patmustard"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/nicepints.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='6' x:Name="nicepints"
+                    Height="36"
+                    Width="104"
+                    Content="Nice Pints"
+                                            Margin="0,314,0,150"/>
+
+                    <MediaElement x:ConnectionId='7' x:Name="patmustard2"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/underArrest.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='8' x:Name="gorgeous"
+                    Height="36"
+                    Width="185"
+                    Content="Im so gorgeous"
+                                           Margin="0,396,0,68"/>
+
+                    <MediaElement x:ConnectionId='9' x:Name="patmustard3"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/spreadmyselfaround.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='10' x:Name="spreadmyselfaround"
+                    Height="36"
+                    Width="185"
+                    Content="Spread myself around"
+                                                     Margin="0,355,0,109"/>
+
+                    <MediaElement x:ConnectionId='11' x:Name="patmustard4"
+                          Height="10"
+                          Width="100"
+                          Source="/Assets/exhaustion.wav"
+                          AutoPlay="False" />
+                    <Button x:ConnectionId='12' x:Name="exhaustion"
+                    Height="36"
+                    Width="185"
+                    Content="Died from exhaustion"
+                                             Margin="0,437,0,27"/>
+                </Grid>
+            </PivotItem>
+        </Pivot>
+
+    </Grid>
+</Page>
+

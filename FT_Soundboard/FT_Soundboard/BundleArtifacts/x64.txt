@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Iano\Desktop\FT_Soundboard\FT_Soundboard\FT_Soundboard\bin\x64\Release\FT_Soundboard_1.1.8.0_x64.appx
+SymbolPackage=C:\Users\Iano\Desktop\FT_Soundboard\FT_Soundboard\FT_Soundboard\AppPackages\FT_Soundboard_1.1.8.0_Test\FT_Soundboard_1.1.8.0_x64.appxsym
